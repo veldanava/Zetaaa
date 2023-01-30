@@ -18,3 +18,6 @@ PASSWORD=<ur password> <br>
 NEWS_API_KEY=<add> <br>
 OPENWEATHER_APP_ID=<add> <br>
 TMDB_API_KEY=<add> <br>
+  
+## support me:
+teer.id/miraeznain
