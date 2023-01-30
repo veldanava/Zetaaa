@@ -4,6 +4,9 @@
 personal assistant like jarvis with Python >w< <br> <br>
 
 [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
+
+ <br>
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 </div>
 
