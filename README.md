@@ -13,7 +13,7 @@ pywhatkit <br>
 wikipedia <br>
 requests <br>
 
-## ru:
+## run:
 py ai.py / python ai.py
 
 ## add .env like this:
