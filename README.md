@@ -7,6 +7,7 @@ personal assistant like jarvis with Python >w< <br> [ use secondary microphone ]
 </div>
 
 ## 🪐 Function:
+
 Send whatsapp message <br>
 Wikipedia search <br>
 Youtube <br>
@@ -15,16 +16,15 @@ Give u a joke <br>
 and many more <br>
 
 ## 🎯 install dependencies:
-pyttsx3 <br>
-SpeechRecognition <br>
-pywhatkit <br>
-wikipedia <br>
-requests <br>
+
+pip install -r requirements.txt
 
 ## ♟ run:
+
 py ai.py / python ai.py
 
 ## 🚀 add .env like this:
+
 USER=<ur username> <br>
 BOTNAME=ZETA <br>
 EMAIL=<ur email> <br>
@@ -32,6 +32,11 @@ PASSWORD=<ur password> <br>
 NEWS_API_KEY=<add> <br>
 OPENWEATHER_APP_ID=<add> <br>
 TMDB_API_KEY=<add> <br>
-  
+
+## 🚀 Rename file environment
+
+rename .env.example to .env
+
 ## 🌌 support me:
+
 teer.id/miraeznain
