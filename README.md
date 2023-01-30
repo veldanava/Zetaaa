@@ -3,7 +3,7 @@
 <h2>ZETA v1.1</h2>
 personal assistant like jarvis with Python >w< <br>
   
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [![](https://visitcount.itsvg.in/api?id=veldanava&icon=2&color=5)](https://visitcount.itsvg.in)
 </div>
 
 ## install dependencies:
