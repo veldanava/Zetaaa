@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://stickerly.pstatic.net/sticker_pack/zPu9DQhcCdOhcGmN6IGxCA/4LU4EK/13/cce2a0fd-ccfc-4577-9a66-ef4e6b0e3ead.png" alt="zeta">
 <h2>ZETA v1.1</h2>
 personal assistant like jarvis with Python >w< <br>
   
