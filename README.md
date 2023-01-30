@@ -1,5 +1,7 @@
-# Zeta v1.1
+<div align="center">
+<h2>ZETA v1.1</h2>
 personal assistant like jarvis with Python >w<
+</div>
 
 ## install dependencies:
 pyttsx3 <br>
