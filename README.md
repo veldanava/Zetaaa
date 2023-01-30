@@ -1,7 +1,7 @@
 # Zeta v1.1
 personal assistant like jarvis with Python >w<
 
-## dependencies:
+## install dependencies:
 pyttsx3 <br>
 SpeechRecognition <br>
 pywhatkit <br>
