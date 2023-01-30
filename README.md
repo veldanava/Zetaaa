@@ -13,6 +13,9 @@ pywhatkit <br>
 wikipedia <br>
 requests <br>
 
+## ru:
+py ai.py / python ai.py
+
 ## add .env like this:
 USER=<ur username> <br>
 BOTNAME=ZETA <br>
