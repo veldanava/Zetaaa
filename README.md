@@ -1,5 +1,12 @@
-# Zetaaa
-personal assistant like jarvis with Python
+# Zeta v1.1
+personal assistant like jarvis with Python >w<
+
+## dependencies:
+pyttsx3 <br>
+SpeechRecognition <br>
+pywhatkit <br>
+wikipedia <br>
+requests <br>
 
 ## add .env like this:
 USER=<ur username> <br>
