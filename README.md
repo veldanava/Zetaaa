@@ -1,6 +1,7 @@
 <div align="center">
 <h2>ZETA v1.1</h2>
 personal assistant like jarvis with Python >w< <br>
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 </div>
 
