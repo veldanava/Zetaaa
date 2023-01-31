@@ -7,13 +7,14 @@ personal assistant like jarvis with Python >w< <br> [ use secondary microphone ]
 </div>
 
 ## 🪐 Function:
-
+```zsh
 Send whatsapp message <br>
 Wikipedia search <br>
 Youtube <br>
 Google <br>
 Give u a joke <br>
 and many more <br>
+```
 
 ## 🎯 install dependencies:
 ```zsh
@@ -26,7 +27,7 @@ and many more <br>
 ```
 
 ## 🚀 add .env like this:
-
+```zsh
 USER=<ur username> <br>
 BOTNAME=ZETA <br>
 EMAIL=<ur email> <br>
@@ -34,10 +35,12 @@ PASSWORD=<ur password> <br>
 NEWS_API_KEY=<add> <br>
 OPENWEATHER_APP_ID=<add> <br>
 TMDB_API_KEY=<add> <br>
+```zsh
 
 ## 🚀 Rename file environment
-
+```zsh
 rename .env.example to .env
+```
 
 ## 🌌 support me:
 
