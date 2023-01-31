@@ -8,12 +8,12 @@ personal assistant like jarvis with Python >w< <br> [ use secondary microphone ]
 
 ## 🪐 Function:
 ```zsh
-Send whatsapp message <br>
-Wikipedia search <br>
-Youtube <br>
-Google <br>
-Give u a joke <br>
-and many more <br>
+Send whatsapp message
+Wikipedia search 
+Youtube
+Google
+Give u a joke
+and many more
 ```
 
 ## 🎯 install dependencies:
@@ -28,20 +28,16 @@ and many more <br>
 
 ## 🚀 add .env like this:
 ```zsh
-USER=<ur username> <br>
-BOTNAME=ZETA <br>
-EMAIL=<ur email> <br>
-PASSWORD=<ur password> <br>
-NEWS_API_KEY=<add> <br>
-OPENWEATHER_APP_ID=<add> <br>
-TMDB_API_KEY=<add> <br>
-```
-
-## 🚀 Rename file environment
-```zsh
-rename .env.example to .env
+USER=<ur username>
+BOTNAME=ZETA 
+EMAIL=<ur email>
+PASSWORD=<ur password>
+NEWS_API_KEY=<add>
+OPENWEATHER_APP_ID=<add>
+TMDB_API_KEY=<add>
 ```
 
 ## 🌌 support me:
-
+```zsh
 teer.id/miraeznain
+```
