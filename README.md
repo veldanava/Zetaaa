@@ -16,12 +16,14 @@ Give u a joke <br>
 and many more <br>
 
 ## 🎯 install dependencies:
-
-pip install -r requirements.txt
+```zsh
+> pip install -r requirements.txt
+```
 
 ## ♟ run:
-
-py ai.py / python ai.py
+```zsh
+> py ai.py / python ai.py
+```
 
 ## 🚀 add .env like this:
 
