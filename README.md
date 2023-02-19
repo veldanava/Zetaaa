@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://stickerly.pstatic.net/sticker_pack/zPu9DQhcCdOhcGmN6IGxCA/4LU4EK/13/cce2a0fd-ccfc-4577-9a66-ef4e6b0e3ead.png" alt="zeta">
 <h2>🧩 ZETA v1.1</h2>
-personal assistant like jarvis with Python >w< <br> [ use secondary microphone ] <br>
+personal assistant like jarvis with Python >w< <br> still based on CLI, next update maybe there will be additional GUI
+<br> [ use secondary microphone for the best experience ] <br>
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 </div>
