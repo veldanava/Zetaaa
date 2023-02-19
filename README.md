@@ -26,6 +26,12 @@ and many more
 > py ai.py / python ai.py
 ```
 
+## platform:
+```zsh
+windows
+linux
+```
+
 ## 🚀 add .env like this:
 ```zsh
 USER=<ur username>
